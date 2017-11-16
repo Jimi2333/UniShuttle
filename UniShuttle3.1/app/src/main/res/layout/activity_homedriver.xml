@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnStartTrip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onStartTrip"
+        android:text="@string/txtStartTrip" />
+
+    <Button
+        android:id="@+id/btnFuelUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onFuelUp"
+        android:text="@string/txtLogFuelUp" />
+
+    <Button
+        android:id="@+id/btnMaintenance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onMaintenance"
+        android:text="@string/txtLogMaintenance" />
+
+    <Button
+        android:id="@+id/btnBreakDown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onBreakDown"
+        android:text="@string/txtLogBreakDown" />
+</LinearLayout>

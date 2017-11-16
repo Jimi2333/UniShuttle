@@ -1,0 +1,5 @@
+1.Orientation locked
+2.Stop icon changed
+2.Bus location displayed
+3.Bus icon changed
+4.Bus location refreshed (without stop location refreshing);

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UniShuttle</string>
+    <string name="title_activity_maps">UniShuttle</string>
+
+    <string name="checkboxStudent">Student</string>
+    <string name="checkboxDriver">Driver</string>
+    <string name="lblSID">ID:</string>
+    <string name="lblPassword">Password:</string>
+    <string name="lblGroup">I am a:</string>
+    <string name="lblLicensePlate">License Plate:</string>
+    <string name="lblDate">Date:</string>
+    <string name="lblCost">Cost:</string>
+    <string name="lblDescription">Description:</string>
+
+
+    <string name="btnSubmit">Submit</string>
+
+
+
+    <string name="txtStartTrip">Start Trip</string>
+    <string name="txtLogFuelUp">Log Fuel Up</string>
+    <string name="txtLogMaintenance">Log Maintenance</string>
+    <string name="txtLogBreakDown">Log Break Down</string>
+    <string name="txtNumberOfPassenger">Passengers:</string>
+    <string name="txtLocation">Your Location:</string>
+    <string name="txtSelectBus">Select a Bus:</string>
+    <string name="txtConfirmBus">Apply</string>
+
+
+
+</resources>
